@@ -213,6 +213,8 @@ Zombies Killed....................................2824
 Zombie Horses Killed..............................2825
 Zombie Pigmen Killed..............................2826
 Zombie Villagers Killed...........................2827
+# 1.15 #
+Bees Killed.......................................5380
 
 
 #############
@@ -321,6 +323,8 @@ Deaths by Zombie..................................2926
 Deaths by Zombie Horse............................2927
 Deaths by Zombie Pigman...........................2928
 Deaths by Zombie Villager.........................2929
+# 1.15 #
+Deaths by Bee.....................................5381
 
 
 ##########
@@ -1282,6 +1286,16 @@ Zombie Horse Spawn Eggs Crafted...................1776
 Zombie Pigman Spawn Eggs Crafted..................1777
 Zombie Spawn Eggs Crafted.........................1778
 Zombie Villager Spawn Eggs Crafted................1779
+# 1.15 #
+Bee Spawn Eggs Crafted............................5382
+Beehives Crafted..................................5383
+Beenests Crafted..................................5384
+Honey Blocks Crafted..............................5385
+Honey Bottles Crafted.............................5386
+Honeycomb Blocks Crafted..........................5387
+Honeycombs Crafted................................5388
+
+
 
 
 ###########
@@ -2165,6 +2179,14 @@ Zombie Horse Spawn Eggs Dropped...................2722
 Zombie Pigman Spawn Eggs Dropped..................2723
 Zombie Spawn Eggs Dropped.........................2724
 Zombie Villager Spawn Eggs Dropped................2725
+# 1.15 #
+Bee Spawn Eggs Dropped............................5389
+Beehives Dropped..................................5390
+Beenests Dropped..................................5391
+Honey Blocks Dropped..............................5392
+Honey Bottles Dropped.............................5393
+Honeycomb Blocks Dropped..........................5394
+Honeycombs Dropped................................5395
 
 
 #########
@@ -2847,6 +2869,11 @@ Yellow Wall Banners Mined.........................3602
 Yellow Wool Mined.................................3603
 Zombie Heads Mined................................3604
 Zombie Wall Heads Mined...........................3605
+# 1.15 #
+Beehives Mined....................................5396
+Beenests Mined....................................5397
+Honey Blocks Mined................................5398
+Honeycomb Blocks Mined............................5399
 
 
 #############
@@ -3730,7 +3757,14 @@ Zombie Horse Spawn Eggs Picked Up.................4479
 Zombie Pigman Spawn Eggs Picked Up................4480
 Zombie Spawn Eggs Picked Up.......................4481
 Zombie Villager Spawn Eggs Picked Up..............4482
-
+# 1.15 #
+Bee Spawn Eggs Picked Up..........................5400
+Beehives Picked Up................................5401
+Beenests Picked Up................................5402
+Honey Blocks Picked Up............................5403
+Honey Bottles Picked Up...........................5404
+Honeycomb Blocks Picked Up........................5405
+Honeycombs Picked Up..............................5406
 
 ###############
 # USED/PLACED #
@@ -4613,6 +4647,14 @@ Zombie Horse Spawn Egg Uses.......................5356
 Zombie Pigman Spawn Egg Uses......................5357
 Zombie Spawn Egg Uses.............................5358
 Zombie Villager Spawn Egg Uses....................5359
+# 1.15 #
+Bee Spawn Eggs Uses...............................5407
+Beehives Placed...................................5408
+Beenests Placed...................................5409
+Honey Blocks Placed...............................5410
+Honey Bottles Uses................................5411
+Honeycomb Blocks Placed...........................5412
+Honeycombs Uses...................................5413
 
 
 ###################
