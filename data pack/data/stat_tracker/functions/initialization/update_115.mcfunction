@@ -59,10 +59,10 @@ scoreboard objectives add 5406 minecraft.picked_up:minecraft.honeycomb "Honeycom
 ###############
 # USED/PLACED #
 ###############
-scoreboard objectives add 5407 minecraft.dropped:minecraft.bee_spawn_egg "Bee Spawn Eggs Uses"
-scoreboard objectives add 5408 minecraft.dropped:minecraft.beehive "Beehives Placed"
-scoreboard objectives add 5409 minecraft.dropped:minecraft.bee_nest "Beenests Placed"
-scoreboard objectives add 5410 minecraft.dropped:minecraft.honey_block "Honey Blocks Placed"
-scoreboard objectives add 5411 minecraft.dropped:minecraft.honey_bottle "Honey Bottles Uses"
-scoreboard objectives add 5412 minecraft.dropped:minecraft.honeycomb_block "Honeycomb Blocks Placed"
-scoreboard objectives add 5413 minecraft.dropped:minecraft.honeycomb "Honeycombs Uses"
+scoreboard objectives add 5407 minecraft.used:minecraft.bee_spawn_egg "Bee Spawn Eggs Uses"
+scoreboard objectives add 5408 minecraft.used:minecraft.beehive "Beehives Placed"
+scoreboard objectives add 5409 minecraft.used:minecraft.bee_nest "Beenests Placed"
+scoreboard objectives add 5410 minecraft.used:minecraft.honey_block "Honey Blocks Placed"
+scoreboard objectives add 5411 minecraft.used:minecraft.honey_bottle "Honey Bottles Uses"
+scoreboard objectives add 5412 minecraft.used:minecraft.honeycomb_block "Honeycomb Blocks Placed"
+scoreboard objectives add 5413 minecraft.used:minecraft.honeycomb "Honeycombs Uses"
